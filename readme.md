@@ -43,7 +43,7 @@ can find out relevant information.
   was its developer
 
 
-<img height="250" src="C:\Users\Igor\Desktop\tg_bot\photo\1.png" width="350"/>
+<img height="250" src="https://github.com/omelchenkoigor8388/tg_bot_info.py/blob/master/photo/1.png" width="350"/>
 <img height="250" src="C:\Users\Igor\Desktop\tg_bot\photo\2.png" width="350"/>
 <img height="250" src="C:\Users\Igor\Desktop\tg_bot\photo\3.png" width="350"/>
 <img height="250" src="C:\Users\Igor\Desktop\tg_bot\photo\4.png" width="350"/>
