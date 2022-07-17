@@ -11,7 +11,7 @@ news in real time
 
 When the bot is activated for the first time, it will greet you 
 using your nickname in Telegram, after which you can
-select the desired category in the menu, about which you
+select the desired category in the menu,about which you
 can find out relevant information.
 
 - Exchange rate 
